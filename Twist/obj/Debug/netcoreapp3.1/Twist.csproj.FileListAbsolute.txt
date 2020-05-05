@@ -1,0 +1,15 @@
+C:\Users\xlp1a\source\repos\Twist\Twist\bin\Debug\netcoreapp3.1\Twist.exe
+C:\Users\xlp1a\source\repos\Twist\Twist\bin\Debug\netcoreapp3.1\Twist.deps.json
+C:\Users\xlp1a\source\repos\Twist\Twist\bin\Debug\netcoreapp3.1\Twist.runtimeconfig.json
+C:\Users\xlp1a\source\repos\Twist\Twist\bin\Debug\netcoreapp3.1\Twist.runtimeconfig.dev.json
+C:\Users\xlp1a\source\repos\Twist\Twist\bin\Debug\netcoreapp3.1\Twist.dll
+C:\Users\xlp1a\source\repos\Twist\Twist\bin\Debug\netcoreapp3.1\Twist.pdb
+C:\Users\xlp1a\source\repos\Twist\Twist\obj\Debug\netcoreapp3.1\Twist.csprojAssemblyReference.cache
+C:\Users\xlp1a\source\repos\Twist\Twist\obj\Debug\netcoreapp3.1\Twist.csproj.CoreCompileInputs.cache
+C:\Users\xlp1a\source\repos\Twist\Twist\obj\Debug\netcoreapp3.1\Twist.AssemblyInfoInputs.cache
+C:\Users\xlp1a\source\repos\Twist\Twist\obj\Debug\netcoreapp3.1\Twist.AssemblyInfo.cs
+C:\Users\xlp1a\source\repos\Twist\Twist\obj\Debug\netcoreapp3.1\Twist.dll
+C:\Users\xlp1a\source\repos\Twist\Twist\obj\Debug\netcoreapp3.1\Twist.pdb
+C:\Users\xlp1a\source\repos\Twist\Twist\obj\Debug\netcoreapp3.1\Twist.genruntimeconfig.cache
+C:\Users\xlp1a\source\repos\Twist\Twist\obj\Debug\netcoreapp3.1\Twist.Properties.Resources.resources
+C:\Users\xlp1a\source\repos\Twist\Twist\obj\Debug\netcoreapp3.1\Twist.csproj.GenerateResource.cache
